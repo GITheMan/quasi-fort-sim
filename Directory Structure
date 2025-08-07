@@ -1,0 +1,17 @@
+gi-fort-simulation/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Vault.jsx
+│   │   ├── ChemLab.jsx
+│   │   ├── RadioTower.jsx
+│   │   ├── SolarArray.jsx
+│   │   ├── WaterFiltration.jsx
+│   │   └── QuasiFortLayout.jsx
+│   ├── App.jsx          ← 🟢 THIS IS YOUR FILE
+│   └── main.jsx         ← React entry point (used in Vite)
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
